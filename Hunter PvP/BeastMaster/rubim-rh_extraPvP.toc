@@ -1,0 +1,8 @@
+## Interface: 80000
+## Title: Rubim Rotation Helper (Extra PvP)
+## Dependencies: Rubim-RH
+## Author: Rubim
+## Version: 1.0
+## Notes: Show what button to press
+## SavedVariables: RubimRHPvPDB
+rubim-rh_extraPvP.lua
