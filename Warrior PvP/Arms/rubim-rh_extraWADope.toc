@@ -1,6 +1,0 @@
-## Interface: 70100
-## Title: Rubim Rotation Helper (WADope)
-## Author: Rubim
-## Version: 1.0
-## Notes: Show what button to press
-rubim-rh_extraWADope.lua
