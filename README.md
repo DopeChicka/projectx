@@ -2,11 +2,10 @@
 GG-Loader PvP Profiles for Rubim_RH
 
 ### Hunter PVP
-Spec  | PvP | patch | Notes
+Spec  | PvP | Status | patch | Vers.
 :------: | :-----: | :---: | -----: | :------:
-BM   | :heavy_check_mark:    |  8.0.1 |   | 
-Survival   | :heavy_check_mark:    |  8.0.1 |   | 
-Marksman    | :heavy_check_mark:   |   8.0.1  |   | 
+Beastmaster    | :heavy_check_mark:    |  :x:   |  8.0.1 |   |  
+Survival   | :heavy_check_mark:    |  :x:   |  8.0.1 |   | 
 
 ### Demon Hunter
 Spec  | PvE | PvP | patch | Notes
